@@ -3,7 +3,7 @@ def square_array(numbers)
     # puts "Calling number: #{number}!"
   array = []
   numbers.each do |n|
-    array << #{n} ** 2
+    array << n ** 2
   #end
   end
   array
